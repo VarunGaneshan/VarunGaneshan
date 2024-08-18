@@ -1,4 +1,4 @@
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunGaneshan&show_icons=true&theme=swift)
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=VarunGaneshan\&hide=contribs,issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunGaneshan&layout=compact)
 <!--
